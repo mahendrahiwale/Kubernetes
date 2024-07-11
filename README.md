@@ -1,4 +1,3 @@
-# qa-test
 
 **Kubernetes Deployment:**
 
