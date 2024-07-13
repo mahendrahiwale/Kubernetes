@@ -1,6 +1,6 @@
-**Test 1**
+# Test 1 
 
-# Write a simple test script (using a tool of your choice) to verify the integration between the frontend and backend services.
+***Write a simple test script (using a tool of your choice) to verify the integration between the frontend and backend services***
 
 Socket programming concept is used to test the backend and frontend service integration.
 
@@ -14,12 +14,12 @@ Run the client.py file.
 
 The responsed will be generated if the services are integrated succesfully.
 
-**Test 2**
+# Test 2
 
-# The test should check that the frontend correctly displays the message returned by the backend.
+***The test should check that the frontend correctly displays the message returned by the backend***
 
 A simple and minimal selenium python script is added to test the greeting message fetched from the backend.
-Note : The script is made simple intentionally as to reduce the efforts of downloading n number of packages and softwares and setting them up.
+***Note :*** The script is made simple intentionally as to reduce the efforts of downloading n number of packages and softwares and setting them up.
 
 Setup :
 1) Install Python
